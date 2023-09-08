@@ -4,13 +4,13 @@ zuul:
   routes:
     offer:
       path: /offer/**
-      url: http://100.24.36.58:1001/api/v1
+      url: http://100.24.36.58:32471/api/v1
     shoe:
       path: /shoe/**
-      url: http://100.24.36.58:1002/api/v1
+      url: http://100.24.36.58:32472/api/v1
     wishlist:
       path: /wishlist/**
-      url: http://100.24.36.58:1003
+      url: http://100.24.36.58:32473
     cart:
       path: /cart/**
-      url: http://100.24.36.58:1004/api/v1
+      url: http://100.24.36.58:32474/api/v1
